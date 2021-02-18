@@ -1,5 +1,5 @@
-<?php include("layouts/layout_top.php") ?>
+<?php include("layouts/main_top.php") ?>
 <div>
     HELLO MICRO
 </div>
-<?php include("layouts/layout_bottom.php") ?>
+<?php include("layouts/main_bottom.php") ?>
