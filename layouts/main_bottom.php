@@ -1,9 +1,7 @@
         <!-- content up here -->
         </div>
+        </main>
         <?php include('main_js.php') ?>
+        <?php include('components/footer.php') ?>
         </body>
-        <footer>
-            <?php include('components/footer.php') ?>
-        </footer>
-
         </html>
